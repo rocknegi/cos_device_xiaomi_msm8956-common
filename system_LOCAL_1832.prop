@@ -58,13 +58,6 @@ persist.hwc.mdpcomp.enable=true
 persist.hwc.downscale_threshold=1.15
 ro.opengles.version=196609
 ro.sf.lcd_density=480
-<<<<<<< HEAD
-=======
-debug.sf.disable_hwc_vds=1
-persist.hwc.enable_vds=1
-sdm.perf_hint_window=50
-ro.sys.display.support=63
->>>>>>> 4ea04fc... System.prop: Removed few tweaks
 
 # Media
 media.msm8956hw=1
@@ -122,13 +115,9 @@ persist.radio.rat_on=combine
 persist.radio.sib16_support=1
 persist.radio.sw_mbn_update=0
 persist.radio.VT_HYBRID_ENABLE=1
-<<<<<<< HEAD
 
 # Storage
 ro.sys.sdcardfs=true
-=======
-persist.radio.add_power_save=1
->>>>>>> 4ea04fc... System.prop: Removed few tweaks
 
 # TCP
 net.tcp.2g_init_rwnd=10
